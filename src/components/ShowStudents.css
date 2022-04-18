@@ -1,0 +1,18 @@
+table{
+    margin: auto;
+    border:2px solid black;
+    margin-top: 60px;
+}
+th,td{
+    border:1px solid red;
+}
+.controls{
+    width:400px;
+    display:flex;
+    justify-content: space-between;
+    margin-left: 500px;
+    
+}
+.sort{
+    margin-left: 10px;
+}
